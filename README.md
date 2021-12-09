@@ -14,6 +14,6 @@ https://github.com/KhaledAlqrainy/cookie-stand-admin/pull/3
 
 ## Deploy url :
 
-https://vercel.com/khaledalqrainy/cookie-stand-admin-new/BrEanBQxX2SVawBQDBfoupwqEBZm
+https://cookie-stand-admin-new-m9mb0pove-khaledalqrainy.vercel.app/
 
 
